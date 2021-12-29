@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React cinema",
+  "name": "React cinema app",
   "icons": [
     {
       "src": "favicon.ico",
