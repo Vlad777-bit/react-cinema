@@ -15,3 +15,15 @@ code {
 .content {
     min-height: calc(100vh - 70px - 64px);
 }
+
+.films {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 25px;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.card-image img {
+    width: 100%;
+}
